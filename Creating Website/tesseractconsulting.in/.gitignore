@@ -1,0 +1,3 @@
+.env 
+.vscode/sftp.json
+app/config/config.php
