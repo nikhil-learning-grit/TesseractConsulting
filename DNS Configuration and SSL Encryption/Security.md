@@ -1,4 +1,4 @@
-## Security Audit 
+# Security Audit 
 
 The domain [tesseractconsulting.in](https://tesseractconsulting.in) was scanned using [SSLBoard](https://sslboard.com/) and passed through its TLS audit. The following were its key findings based on which security hardening was performed for the domain. 
 
